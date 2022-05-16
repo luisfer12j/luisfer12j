@@ -1,22 +1,34 @@
-#Hello! my name is Nando Sanchez 👋
-##I'm a web developer 
+# Hello! my name is Nando Sanchez 👋
+## I'm a web developer 
 
 
 ## Skills:
 
-###FrontEnd
+### FrontEnd
+</br>
 -HTML
+</br>
 -CSS
+</br>
 -Bootstrap
+</br>
 -JavaScript
+</br>
 -ReactJS
+</br>
 
-###BackEnd
+### BackEnd
+</br>
 -NodeJS
+</br>
 -Express
+</br>
 -PostgreSQL
+</br>
 -MySQL
+</br>
 -Firebase
+</br>
 
 And more...
 
